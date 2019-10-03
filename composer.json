@@ -1,5 +1,5 @@
 {
-    "name": "OpenMageModuleFostering\/Cm_RedisSession",
+    "name": "openmage-module-fostering\/cm_redissession",
     "type": "magento-module",
     "license": "New-BSD",
     "homepage": "",
