@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Cm_RedisSession",
+    "name": "OpenMageModuleFostering\/Cm_RedisSession",
     "type": "magento-module",
     "license": "New-BSD",
     "homepage": "",
     "description": "Redis session",
     "authors": [
-    {
-        "name": "Colin Mollenhour",
-        "email": "colin@mollenhour.com"
-    }
-],
+        {
+            "name": "Colin Mollenhour",
+            "email": "colin@mollenhour.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
